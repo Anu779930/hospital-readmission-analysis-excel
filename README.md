@@ -36,12 +36,23 @@ Using Excel PivotTables, XLOOKUP, and conditional logic, interactive dashboards 
 ---
 
 ## 🗂 Individual Chart Visualizations
-- Overall Readmission Distribution → ![Readmission Distribution](images/readmission_distribution.png)  
-- Gender Analysis → ![Gender Analysis](images/gender_analysis.png)  
-- Age Group Analysis → ![Age Group Analysis](images/age_group_analysis.png)  
-- Admission Type Analysis → ![Admission Type Analysis](images/admission_type_analysis.png)  
-- Admission Source Analysis → ![Admission Source](images/admission_source_analysis.png)  
-- Discharge Disposition Analysis → ![Discharge Disposition](images/discharge_disposition.png)  
+- **Overall Readmission Distribution**  
+  ![Readmission Distribution](images/readmission_distribution.png)
+
+- **Readmission % by Gender**  
+  ![Gender Analysis](images/gender_analysis.png)
+
+- **Readmission % by Age Group**  
+  ![Age Group Analysis](images/age_group_analysis.png)
+
+- **Readmission % by Admission Type**  
+  ![Admission Type Analysis](images/admission_type_analysis.png)
+
+- **Readmission % by Admission Source**  
+  ![Admission Source](images/admission_source_analysis.png)
+
+- **Readmission % by Discharge Disposition**  
+  ![Discharge Disposition](images/discharge_disposition.png)
 
 ---
 
